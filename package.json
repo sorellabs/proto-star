@@ -1,0 +1,30 @@
+{
+  "name": "proto-star",
+  "version": "0.1.0",
+  "description": "Proxy-based Self-and-Slate-inspired slow-as-fuck multiple-delegation for ECMAScript6-aka-JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/killdream/proto-star.git"
+  },
+  "keywords": [
+    "prototype",
+    "self",
+    "slate",
+    "multiple",
+    "delegation",
+    "inheritance"
+  ],
+  "author": "Quildreen Motta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/killdream/proto-star/issues"
+  },
+  "dependencies": {
+    "boo": "~2.0.0",
+    "harmony-reflect": "0.0.9"
+  }
+}
