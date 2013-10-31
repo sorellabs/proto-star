@@ -36,7 +36,7 @@ var Nothing = {}
 function unique(xs) {
   return xs.reduce(function(as, b) {
                      return as.indexOf(b) != -1?  as
-                     :                            as.concat(b) }, [])}
+                     :                            as.concat([b]) }, [])}
 
 function flatten(xs) {
   return xs.reduce(function(as, bs){ return as.concat(bs) }, []) }
