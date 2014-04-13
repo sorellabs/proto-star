@@ -1,8 +1,8 @@
 Proto*
 ======
 
-[![Build Status](https://travis-ci.org/killdream/proto-star.png)](https://travis-ci.org/killdream/proto-star)
-[![Dependencies Status](https://david-dm.org/killdream/proto-star.png)](https://david-dm.org/killdream/proto-star.png)
+[![Build Status](https://travis-ci.org/robotlolita/proto-star.png)](https://travis-ci.org/robotlolita/proto-star)
+[![Dependencies Status](https://david-dm.org/robotlolita/proto-star.png)](https://david-dm.org/robotlolita/proto-star.png)
 [![NPM version](https://badge.fury.io/js/proto-star.png)](http://badge.fury.io/js/proto-star)
 [![experimental](http://hughsk.github.io/stability-badges/dist/experimental.svg)](http://github.com/hughsk/stability-badges)
 
@@ -60,4 +60,4 @@ You'll need Node 0.11+ and run stuff with the `--harmony` flag.
 
 Copyright (c) 2013 Quildreen Motta.
 
-Released under the [MIT licence](https://github.com/killdream/proto-star/blob/master/LICENCE).
+Released under the [MIT licence](https://github.com/robotlolita/proto-star/blob/master/LICENCE).
